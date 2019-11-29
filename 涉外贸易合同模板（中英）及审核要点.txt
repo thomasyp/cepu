@@ -1,0 +1,437 @@
+
+                    
+                    
+                    
+            涉外贸易合同模板（中英）及审核要点
+                      
+微信号
+CCA-legal
+
+
+功能介绍
+公司法律人的交流平台
+
+
+ 买卖合同
+PURCHASE CONTRACT
+
+编号(No.):              
+ 
+本合同于XX年XX月XX日由以下双方共同签订：
+This purchase contract is made on [date], by and between:
+ 
+【                        】公司，依中国人民共和国法律注册成立，其法定地址为【                      】，（以下简称“买方”）。
+【                        】, a company incorporated under the laws of People’s Republic of China with its registered office in 【                      】 (hereinafter called “the Buyer”) .
+ 
+和/and
+ 
+【                  】公司，依【                  】法律注册成立，其法定地址为【        】，（以下简称“卖方”）。
+【                        】, a company incorporated under the laws of 【                        】 with its registered office in 【                        】 (hereinafter called “the Seller”).
+ 
+【审查要素】
+
+①涉外贸易合同具有国际性。所谓国际性，可以有很多的标准，比如贸易双方拥有不同的国籍、贸易双方分处不同的营业地、货物跨越国境进行交易等。
+
+②应首先对对方是否有权签署合同进行审查，包括但不限于对方的主体性质（如Unincorporated Joint Venture是否有资格作为独立责任主体签署合同等）、对方派出的代表是否已获得相应授权进行审查与提示。
+
+
+双方同意本合同有效期内，买方及其关联方（如附件所列）将向卖方及其关联方采购产品，卖方及其关联方将根据本合同及已接受的买方及其关联方订单供应产品，本合同及其附件约定的条款和条件适用于该等产品订单。买方将保证买方关联方知悉并执行本条款约定。卖方将保证卖方关联方知悉并执行本条款约定。在合同项下，双方同意按下述条款买卖下述商品：
+During the period of validity, the Buyer and its affiliated parties purchase products from the Seller and its affiliated parties. Meanwhile, the Seller and its affiliated parties supply products to the Buyer and its affiliated parties according to contract hereof and the related orders. The agreed clause and terms of contract hereof and its appendixes are suitable to the products. The Buyer and its affiliated parties acknowledge and implement clause hereof. The Seller and its affiliated parties acknowledge and implement clause hereof. Whereby the Buyer agree to buy and the Seller agree to sell the under-mentioned commodity on the terms and conditions stipulated below:
+ 
+
+1.货物 COMMODITY ：
+货物名称
+Commodity
+规格
+Specification
+单  价
+Unit Price
+工厂
+Factory
+质量标准
+Quality
+
+【审查要素】
+
+①针对买方：应尽量明确标的货物具体质量和数量情况，包括但不限于标的货物的原产地、规格、含量、货物需达到的质量标准、买方能接受的误差范围，是否对标的货物进行封样等。特别需注意的是，往往我国企业在与国际大型供应商交易时，对方会强势地使用其格式合同，这种所谓的格式合同中通常会含有“货物质量以卖方提供为准，买方需无条件接受”之类的霸王条款，遇到该类显失公平的条款，建议企业依据国际供需市场需求据理力争，在能促成交易的情况下规避此类风险。
+
+②针对卖方：重点应注意审查对方提出的质量标准，看清是适用中国标准还是欧洲标准等其他标准，应注意其产品能否达到相关标准。
+
+ 
+2.生产国别及制造厂商 COUNTRY OF ORIGIN AND MANUFACTURERS:
+   
+   生产国别（Country of origin）：
+   销售方（Sales party）：
+ 
+
+3.装运期限 TIME OF SHIPMENT：
+ 
+ (1)所有货物应于收到银行L/C副本起60天内出运。
+    All commodity shall be shipped out within 60 days after receive the L/C copy.      
+ 
+ (2)   □ 允许分批装运，第一批货物出运不应迟于        。
+            Partial shipment is allowed, and the first shipment should be made before                  .
+        □ 不允许分批装运.
+            Partial shipment is not allowed.
+ 
+4.装运港 PORT OF SHIPMENT：
+ 
+5.目的港 PORT OF DESTINATION：
+ 
+【审查要素】
+
+①对装运日期的签订要明确并留有余地。
+例如，在国际货物买卖合同中，在以已收到信用证作为装运前提时，为避免买方拖延或拒绝开证，卖方就应在合同中订明“买方最迟于x月x日前将信用证开抵卖方”。
+
+②合同中要明确注明装运港与目的港。
+装运港与目的港是价格术语不可缺少的组成部分，它们决定买卖双方的责任、费用与风险的分担。所以，一定要按照价格术语的要求注明装运港与目的港。同时，如果合同中订有选择港，则要明确约定增加的运费、附加费用由谁承担。
+
+③注意对特殊装运条件的约定。
+例如，如果目的港市没有直达船挂靠或只有船期少而不固定的港口，合同中应订明“允许转船”的条款。对于一次成交的大宗商品，在备货紧张或运输工具受限制的情况下，合同双方应在合同中附加“允许分批装运”的条件。
+
+④重视装船通知工作。
+装船通知的目的在于做好派船、装船、投保、接货4个环节的衔接工作。因此，对于装船通知工作，各方也要加以重视。
+在FOB合同中，卖方应在备好货、装船期开始前通知买方，以便买方及时派船；买方则应在接到通知后，及时把预定到达装运港的船名、泊位及到港日期及时通知卖方，以便卖方装船；卖方装船时则应及时通知买方，以便买方投保。
+在CIF、CFR合同中，卖方在货物装船后，应立即将合同号、货品、数量、质量、 船名及到达日期通知买方，以便买方做好接货准备。这都是买卖双方需要加以了解、重视的。
+
+
+6.保险 INSURANCE：
+  由          负责 
+  To be borne by the                .  
+ 
+【审查要素】
+
+①保险条款的主要内容包括确定投保人及支付保险费、投保险别和保险金额。
+在国际货物买卖中，大部分是FOB、CIF、CFR合同，因此，保险责任和费用的承担由当事人选用的贸易术语决定。在FOB和CFR合同中，买方自行投保、自负费用，所以保险条款相对比较简单， 需在合同中写明“买方投保”即可。而在CIF合同中，由卖方投保并将支付的保险费加在货价上。因此，在制定保险条款时应注意以下几个问题：第一，卖方在替买方投保后，应把保险单及时交给买方；第二，明确订单采用的保险条款名称；第三，注意保险公司的特殊规定。
+
+
+7.包装 PACKING：
+
+所供货物必须由卖方用适合远洋及长途内陆运输、防潮、防湿、防震、防锈、耐野蛮装卸的全新坚固木箱/纸箱包装，以确保货物不致由上述原因受损。任何由于包装不妥善导致之任何损失均由卖方负担。另外，进口货物的木制包装需符合进口国质量监督检验检疫部门的标准并标有出口国的“IPPC”标志。
+To be packed in new strong wooden case(s)/carton(s) suitable for long distance ocean and inland transportation and well protected against dampness, moisture, shock, rust and rough handling. The seller shall be liable for any damage to the goods on account of improper packing and for any rust damage attributable to inadequate or improper protective measures taken by the seller, and in such case or cases any and all losses and/or expenses incurred in consequence thereof shall be borne by the Seller. Apart from that, All wooden-packing material associated with consignment to China should be treated with measures approved by AQSIQ and labeled with IPPC mark by manufacturers certified by plant quarantine authorities of exporting countries or regions.
+ 
+
+8.唛头SHIPPING MARK：
+
+卖方必须用不褪色的油漆于每一包装箱上印刷合包装编号、尺码、毛重、净重、提吊位置、“此端向上”、“小心轻放”、“保持干燥”等字样及下列唛头：
+On the surface of each package, the package number, measurement, gross weight, net weight, the lifting positions, warnings such as “THIS SIDE UP” ,  “HANDLE WITH CARE”,  “KEEP AWAY  FROM MOISTURE” and the following shipping mark shall be stenciled legibly in fade-less paint:
+XXXXXXXXXXXXXXX
+XXXX, CHINA
+PRODUCTION DATE:
+EXPIRATION DATE:
+ 
+【审查要素】
+
+①应当明确包装的材料、造型和规格。
+包装条款中，应当对包装的材料、造型和规格加以明确约定。除包装为买方所知的传统商品外，不应使用诸如“适合海运包装”这类含义不清的词句。
+
+②对包装费用要加以明确约定。
+国际货物买卖合同中，包装费用一般都包含在货价之内。如果买方要求特殊包装，则应该在合同中加以明确约定，由买方自付费用，以防范发生合同纠纷。
+对于因包装不当引起的损失如何承担的问题，也应该在包装的具体细节中加以明确约定。
+
+③重视包装中的“唛头”内容。
+当买方提供包装、包装材料或运输标志指定“唛头”时，应当在合同中注明买方提供的时间，以保证备货、及时出运及结汇等。明确在由此造成延迟交货或拒付货款时，双方的责任如何承担。
+应当尽量采用联合国推荐的由收货人简称或代号、订单号或合同号或其他重要单据号、目的地、箱（件）号、总件数（以此顺序）组成的标准唛头。企业还应当注意各国有关包装（包括“唛头”）的法律与禁忌，以及国际上对运输标志的惯常要求及其变化等。
+
+ 
+9.付款条件 TERM OF PAYMENT：
+
+(1)L/C 90天  
+
+(2)开证资料(Letter of Credit)
+受益人银行(Beneficiary Bank Name):
+ 
+银行地址(Bank Address):
+ 
+银行电话(TEL):
+ 
+A/C No.:
+ 
+Swift Code:
+ 
+【审查要素】
+
+①根据买卖双方的市场地位判断使用信用证的种类，例如是使用远期信用、即期信用证亦或假远期信用证，因为不同种类的信用证对于双方来说使用成本不同。
+
+②针对买方：应根据合同的要求在信用证中对提单、保险单、商业发票、质检证书等提出明确而具体的要求，防止卖方针对漏洞提交不符合合同而符合信用证的单据得到货款；近洋运输时，由于卖方寄出的单据可能在标的货物已到港后方能到达，若买方坚持提单到达后才提货则会产生滞期费等额外成本，若向银行申请提货担保，则银行通常要求买方承诺无论是否存在不符点的情况，买方均需接受，应综合考虑交易对手资信状况、滞期费率等因素，引导业务部门作出最优选择。
+
+③针对卖方：应在收到买方开出的信用证后方能发货，最好能约定买方开出信用证的具体时间；注意审查信用证中是否存在陷阱条款，对业务部门做好事前风险提示。
+
+ 
+10. 交货条款DELIVERY TERM
+
+本合同使用的交货条款解释适用国际商会《Incoterms 2010》
+The delivery term stated in the contract shall be interpreted ia accordance with INCOTERMS (2010), published by International Chamber of Commerce, as the same may be amended from time to time.
+ 
+【审查要素】
+
+①国际货物运输的方式有很多种，有海洋运输、铁路运输、航空运输、集装箱运输、国际多式联运运输、管道运输等多种方式。运输条款的审核要根据国际贸易术语。主要包括装运时间、装运港和目的港、是否分批装运以及装运通知等内容。所以在审核时双方必须明确国际商会制定的《2010年国际贸易术语解释通则》（即《INCOTERMS 2010》），该《规则》将其汇集的11种贸易术语分为两类，并分别作了具体解释。同时，《2000年国际贸易术语解释通则》（即《INCOTERMS 2000》）并未失效，仍可由合同双方选择适用。
+
+②因此，在审理合同时，合同中出现贸易术语后，必须指明是适用哪个版本的贸易术语。
+
+ 
+11. 装运单据 SHIPPING  DOCUMENTS：
+
+卖方必须提交所有报关所需的下列（包括但不限于）单据至付款行议付：
+The Seller shall present the following (including but not limited）documents the paying bank for negotiation:
+(1)□全套可议付已装船清洁海运提单，注明“运费已付”、空白抬头、空白背书、并通知到货口岸。
+       Full set of Negotiable Clean on Board Ocean Bill of Lading marked “FREIGHT PREPAID” and made out to order, blank endorsed, and notifying the port of destination.
+    □2/3套可议付已装船清洁海运提单，注明“运费已付”、空白抬头、空白背书、并通知到货口岸, 1/3套在装运后6天内直接用航空邮寄买方采购处。 
+       2/3 sets of Negotiable Clean on Board Ocean Bills of Lading marked “FREIGHT PREPAID” and made out to order, blank endorsed, and notifying destination port, and 1/3 set  be sent  directly to the Purchasing Dept. of the Buyer by airmail within six(6) working days after the  shipment.
+
+(2)商业发票一式五份，注明合同号及唛头。
+     Invoice in Quintuplicate, indicating contract number and shipping mark.
+
+(3)装箱单一式三份，注明毛、净重、尺码和所装货物每项的品名数量。
+     Packing List in triplicate with indication of gross weights, net weights, measurements, name and quantity of each item packed.
+
+(4)由制造厂家签字的品质和数量证明书。
+     Certificate of Quality and Quantity/weight and Testing Report issued by the manufacturer.
+
+(5)原产地证书。
+     Certificate of Origin
+
+(6)包装证明
+     Certificate of Packing
+      □保险单，应包含战争险及一切险。
+         Insurance Policy or Certificate, covering war risk and all risks
+ 
+【审查要素】
+
+国际贸易买卖合同中规定的有关单据，是买卖双方交接货物、结算货款、处理异议索赔和解决合同争议的主要凭证。单据的种类有很多，主要包括运输单据、保险单据、发票、包装单据（主要包括装箱单、重量单和尺码单）、检验证书和产地证书等。必要的单据双方要约定，对于卖方而言，单据最好是不需要买方配合就能取得的单据，否则如果无法取得，又是信用证要求的单据，就会造成无法议付的情发生；审查单据条款时，应注意其内容与合同其他条款的衔接，避免出现彼此抵触的情况；在单据条款中，应将单据的类别、名称、份数等有关主要内容具体列明，以利合同的履行。
+
+ 
+12. 技术文件 TECHNICAL DOCUMENTS：
+签订合同后30天内，卖方应将下述资料一式两套提交买方。发货时卖方应将下述技术资料每台一整套与货物一起包装发运：
+Within 30 days after signing this Contract, the Seller should submit two sets of the following technical documents to the Buyer; Another complete set of the following technical documents per unit shall be packed and dispatched together with the commodity:
+    
+    □基础图。       
+       Foundation drawings
+    
+    □布线说明，电气接线图。
+       Wiring instructions
+    
+    □安装、操作和维修说明书。
+       Installation,operation and maintenance instructions
+    
+    □物质安全数据表MSDS
+       Material Safty Data Sheet
+
+    □产品分析单COA
+       Certificate of Analysis
+ 
+
+13. 装运通知 Shipping Advice：
+
+货物全部装船后，卖方必须在二个工作日内，以传真方式向买方通知合同号、货物名称、数量、毛重，发票金额，船名和启运日期。正本用航空邮寄交买方。
+After the commodity are completely loaded, the Seller shall fax to notify the buyer of the contract number, name of commodity, quantity, gross weight, net weight, invoice value, name of carrying vessel and the date of departure in two working days. Original documents shall be send by airmail to the Buyer.
+ 
+
+14. 质量保证 GUARANTEE OF QUALITY：
+
+(1)卖方保证：其所提供的货物，均为全新的正品行货，来源正当合法，不会侵犯第三方合法权益，不涉及任何假货，不存在任何虚假宣传、假冒产地、假冒企业名称、假冒认证标识的行为。所供货物在正确安装、正确使用的情况下，质量保证期为自投入使用起十二个月，但最迟不超过货物到港后十五个月。如卖方违反上述保证义务，卖方除应当向买方承担产品责任外，须向买方公开道歉声明，同时还须向买方支付相当于该货物销售额的违约金。若该金额不足以弥补买方所受损失，卖方应补足差额部分。
+The seller shall warrant and ensure that all the delivered goods are authentic and brand new, and obtained from legitimate sources, without infringing the legitimate rights and interests of any third party; NO FAKE GOODS are involved, and there is no act of false propaganda, counterfeit origin, fake corporate name, or counterfeit certification mark. The guarantee period shall be 12 months starting from the date of start-up under correct installation and normal use, or 15 months counting from the date of arrival of the goods at the destination, whichever comes first. If the seller violates the foresaid warranty obligations, besides being liable for product liability, the seller shall apologize to the buyer by making a public statement, and indemnify the buyer for the liquidated damages in an amount equivalent to the sale price of goods. If the liquidated damages are not sufficient to cover the loss suffered by the buyer, the seller shall be liable to make up the difference.
+
+(2)如果买方要求卖方进行实施现场培训（服务）方面的咨询、培训和/或管理监督，卖方应提供此类服务包括确保货物的安全控制和操作，同时买方无需支付额外费用。如果卖方有设备放置在买方现场，同时这些设备需要卖方人员的维护，那么设备的维护计划，包括但不限于设备的服务、零部件的更换，应得到双方进一步的协商并批准。
+In the event the Buyer requested advice, training and/or supervision on the implementation of the training ("Services") from the Seller, the Seller shall provide such Services including to ensure the safe control and operation of the Goods, at no additional cost to the Buyer. In the event there is equipment of the Seller placed in the Buyer's Mill and the equipment needs to be maintained by the Seller's employee(s), then the maintenance schedule of the equipment, including but not limited to the services of the equipment, replacing the spare parts, shall be further agreed and approved by the Parties.
+ 
+【审查要素】
+
+①保证和担保条款主要是维护买方的利益，加强出口方的责任。
+
+②在保证和担保条款中，一般包括权利保证和质量保证两项内容。权利保证主要是指出口方应保证其是所出口的货物的合法拥有者，出口方有权进行货物出口，并保证货物及其上附加的知识产权在合同规定的地域内没有侵犯任何第三方的权利。质量保证是指出口方保证按合同规定提供货物，其提供的货物符合国际货物买卖合同的约定。
+
+③保证和担保条款对于合同出口方的权利也要加以保障，合同中也应当约定，由于进口方自身故意或者重大过失导致的损害，货物出口方不承担责任。
+
+④在保证和担保条款上，首先，要对出口方提供货物的权利瑕疵和质量瑕疵进行明确地约定；其次，对于货物瑕疵引起的责任和相应的法律后果，如修理、更换及费用承担，也都要进行明确的约定。只有这样，在发生纠纷时，企业才能根据合同维护自身的合法权益。
+
+ 
+15. 检验和索赔 INSPECTION AND CLAIMS：
+
+(1)在货物抵达目的地港后，如果发现到货的质量、规格和数量与合同不符，除应由保险公司或船方负责者外，买方在货物抵达目的港卸货后90天内有权向卖方索赔。
+After arrival of the goods at the port of destination, If any discrepancies are found by the Bureau regarding the specifications or the quantity or both, except those for which either the insurance company or the shipping company is responsible, the Buyer shall, within 90 days after discharge of the goods at the port of the destination, have the right to claim against the Seller on the strength.
+
+(2)卖方在收到买方索赔通知后,一个月之内未予答复，则视为卖方同意买方的一切索赔。
+Any and all claims shall be regarded as being accepted if the Seller fail to reply within 30 days  after receipt of the Buyer’s claim.
+ 
+【审查要素】
+
+①对商品检验权的约定应公平合理
+商品检验权的归属，应在合同条款中明确的订明。可约定由卖方、买方、买卖双方或者双方约定的检验机构实施检验，并提供检验证明。需要注意的是，如果在合同中明确约定了某一个检验机构，那么该检验机构必须是真实存在的，而且可以对合同标的物进行检验。
+
+②商品检验的时间与地点应合理
+对商品检验的时间与地点在合同中要做出明确的规定。合同中一般会规定，在货物验收之前有出厂检验，货物到达目的地后有到货检验，如果是大型设备，则货物到达后的检验只是对货物的数量和质量进行表面判断，真正的检验应该属于设备的试运行。大型设备试运行成功，买方应签署相关证书，签署该证书一般可以理解为设备通过了检验。
+
+③根据择优选择的原则约定检验机构
+商品检验机构有各种不同的类型，包括官方检验机构、半官方检验机构以及非官方检验机构。各种检验机构的经验性质、资信情况、检测水平等各不相同，应择优选择，并在合同中订明。
+
+ 
+16. 索赔解决办法 SETTLEMENT OF CLAIMS：
+
+如果卖方对货物与合同规定不符负有责任，或因卖方违反国家相关法律法规导致买方损失的， 卖方在征得买方同意后，须按下列方法之一理赔：
+In case the Seller are liable for the discrepancies, or violation of the relevant state laws and regulations in China led to the loss of the buyer, the Seller shall settle the claim upon the agreement of the Buyer in the following ways:
+ 
+(1)同意买方退货，并将退货金额以成交原价偿还买方。
+    Agree to rejection of the goods and refund to the Buyer the value of the  goods so rejected in the same amount of money as contracted herein.
+
+(2)按照货物质量疵劣程度、损坏范围，将货物贬值。
+    Devaluate the goods according to the degree of inferiority and extent of damage.
+
+(3)调换有瑕疵的货物，换货必须全新并符合本合同规定的规格、质量和性能。对换货的质量， 买方仍应按本合同第14条的规定，进行质量保证。
+    Replace the defective goods with new ones which conform to the specification, quality and performance as stipulated in the Contract. The Seller shall still guarantee the quality of the replaced goods for a guarantee period as stipulated in Clause 14 of this contract.
+
+(4)按买方损失的10倍金额支付违约金
+    According to the loss of 10times the amount of liquidated damages
+ 
+【审查要素】
+
+合同中通常应明确规定索赔依据，作为双方办理索赔与理赔的依据。交易双方应选择公正、权威的检验机构，一般都是第三方机构且双方同意，出具对双方都有约束力的证明文件。索赔期限的长短也应规定合理，注意提出索赔的时间应是在货物到达目的地或是现场之后立即进行，不宜久拖。如有必要可以规定解决措施如货物数量缺失，应补足货物，货物质量有问题应对有问题的货物进行替换等。
+
+ 
+17. 人力不可抗拒事故 FORCE MAJEURE：
+
+不可抗力因素，它包括自然力量引起的水灾、旱灾、冰灾、雪灾、雷电、暴风雨、地震、海啸等和社会原因引起的战争、暴动、骚乱、政府颁布禁令、封锁禁运和调整政策制度等。由于人力不可抗拒事故而交货延迟或不能交货时，责任不在卖方。但卖方应立即将事故通知买方, 并于事故发生后14天内将事故发生地主管机构出具的证明书用航空邮寄交买方,并取得买方认可为证。在上述情况下，卖方应负有采取一切必要措施从速交货的责任。如果事故持续超过十个星期，买方有权取消本合同。
+Force majeure includes floods, droughts, ice disasters, snow disasters, thunder and lightning, storms, earthquakes, tsunamis and other social causes, such as wars, riots, riots, government bans, embargoes and adjustment policies and regulations. The Seller shall not be held responsible for any delay in delivery or non-delivery of the goods due to Force Major. However, the Seller shall advise the Buyer immediately of such occurrence and within 14 days, thereafter, shall send by airmail to the Buyer for their acceptance a certificate issued by the competent government authorities of the place where the accident occurs as evidence thereof. Under such circumstances the Seller, however, are still under the obligation to take all necessary measures to hasten the delivery of the goods. In case the accident lasts for more than ten weeks, the Buyer shall have the right to cancel this contract.
+ 
+【审查要素】
+
+①在国际贸易中，一般都订有不可抗力的免责条款。其条款的主要内容应包括不可抗力事件的性质和范围、不可抗力事件的通知和证明、不可抗力的处理原则和办法的约定。
+
+②首先，不可抗力事件范围的约定要适当。不可抗力事件的范围较广，除了在合同条款中将不可抗力时间一一列举，也可以概括式地约定若发生不可抗力事件。需要注意的是，如果有某些特殊事项希望写就不可抗力中，应在该条款中明确。
+
+③其次，通知和证明条款应明确。合同中应具体约定，若不可抗力事件发生后影响合同履行时，发生事件的一方具有通知义务。并要提供当地商会或法定公证机构出具不可抗力事件的证明文件。在我国，该项证明文件是由中国国际贸易促进委员会出具。最后应约定不可抗力事件的处理原则和办法。合同中应明确规定，如不可抗力事件发生后，使合同根本不能履行，则可解除合同；如不可抗力事件发生后，只是影响合同的如期履行，则可酌情延期履行合同。是否在合同中规定一旦不可抗力事件发生就解除合同的条款，要根据实际贸易情况决定，有些合同我方并不希望延期执行或解除。
+
+ 
+18. 迟交和罚款 LATE DELIVERY AND PENALTY：
+
+如延迟交货除人力不可抗拒事故者外, 卖方应付给买方每一星期按迟交货物总值的1.5%的迟交违约金，不足一星期的迟交天数作为一星期计算。此项违约金总额不超过全部迟交货物总值的5%。如延迟交货超过原定期限三星期时，买方有权终止本合同，但卖方仍应向买方缴付以上规定之违约金，不得推诿或延迟。
+In case of delayed delivery, except for force major cases, the Seller shall pay to the Buyer for every week of delay a penalty amounting to 1.5% of the total value of the goods late delivered. Any fractional part of a week is to be considered a full week. The total amount of penalty shall not, however, exceed 5% of total value of the goods involved in late delivery. In case the period of delay exceed 3 weeks after the stipulated delivery date the Buyer have the right to terminate this Contract but the Seller shall not be thereby exempted from the payment of penalty.
+ 
+【审查要素】
+
+①在国际贸易中，违约责任一般固化为违约金，违约金的多少通常多由合同当事人约定。从卖方而言，愿意承担的违约金包括晚交货、货物质量、货物数量等只与货物本身发生联系的违约金。但在实际业务中，所能见到的违约金多种多样，包括晚发货、服务不及时、没有递交规定的文件、没有办理相关保险等和履行合同义务发生联系的违约金。从本质上说，违约金是法律强制违约方向守约方支付的一笔金钱。但是从现实考虑，卖方一般仅承担和货物本身发生联系的违约金。
+
+②违约金的数额应该合理，不宜过高或者过低。合同中也可订明因违约产生的损失赔偿数额的计算方法。违约金的数额尽量要有一个最高上限，对于晚交货违约金，通常还要约定违约金数额不超过未交货物的XX%。具体数额一般规定10%左右。
+
+③除了违约金的规定，还应规定免责事项。如卖方不承担因为买方违规操作或者货物自身折旧引起的损失；卖方不承担任何的间接损失，包括利润的损失。卖方承担的最大损失仅为货物本身价格等。同时要避免一次违约行为，被多次追究责任的条款出现，包括累计计算违约金等。
+
+ 
+19. 仲裁 ARBITRATION:
+
+凡因本合同引起的或与本合同有关的任何争议，包括合同的效力、违约或终止，均应由双方通过友好协商方式解决。如协商不成的，任何一方应将争议提交中国国际经济贸易仲裁委员会，按照仲裁申请时中国国际经济贸易仲裁委员会现行有效的仲裁规则进行仲裁。仲裁地在北京。仲裁裁决是终局的，对双方均有约束力。
+Any dispute arising out of or in connection with this Contract, including the validity, invalidity, breach or termination thereof shall be settled through friendly negotiations by both parties. In case no settlement can be reached through negotiations, the parties shall irrevocably submit the foresaid dispute to China International Economic and Trade Arbitration Commission (CIETAC) for arbitration which shall be conducted in accordance with the Commission's arbitration rules in effect at the time of applying for arbitration. The seat of arbitration shall be in Beijing. The arbitral award is final and binding upon both parties. 
+ 
+
+20. 适用法律GOVERNING LAW：
+
+本合同的履行适用中华人民共和国法律，受中华人民共和国法律管辖。
+This contract shall be governed by, and construed in accordance with the Laws of PRC.
+ 
+【审查要素】
+
+①国际贸易中推荐使用的合同纠纷的解决方式是仲裁。仲裁协议或仲裁条款在订立时要注意完整性和准确性，才有利于仲裁机构的受理，以及法院的承认和执行。诉讼是不推荐选择的争议解决方式，但如果一定要选择诉讼的话，合同中要明确规定处理争议的国家或者地区的司法机构及适用何种法律（含国际条约），也可以规定使用第三国法律。
+
+②一般而言，仲裁协议或仲裁条款主要包括：仲裁事项、仲裁地、仲裁机构、仲裁员的选择、仲裁语言、仲裁规则、仲裁效力和仲裁费用负担等内容。对于中国企业来说目前推荐选择的仲裁机构如下：中国国际经济贸易仲裁委员会（CIETAC）、国际商会仲裁法院（ICC）、香港国际仲裁中心（HKIAC）、斯德哥尔摩商会仲裁院（SCC）、新加坡国际仲裁中心（SIAC）。如果对方不同意上述仲裁机构，可以选择在第三国的仲裁机构仲裁，如果对方执意选择本国的仲裁机构，那么适用法律应选择第三国法律。
+
+ 
+21. 合同的取消 CANCELLATION：
+
+如果买方(或卖方)在卖方(或买方)无任何过失的情况下取消合同，买方(或卖方)必须承担卖方(或买方)因被取消合同而遭受的一切损失，赔偿金额不超过合同总价的30%。
+Should the Buyer (or the Seller) cancel the contract without any failure on the Seller side (or on the Buyer side), the Buyer (or Seller) shall be held responsible for any cost and expense the Seller (or the Buyer) may face due to the cancellation of the contract. The compensation, however, shall not exceed 30% of the contract value.
+ 
+【审查要素】
+
+合同中对于任何一方的单方解除合同的权利应该慎重审查。在实际业务中，很多合同赋予买方无限扩大的合同变更和解除权，买方在很多事项下都可以变更和解除合同。所以对于这种合同应该严格审查。合同项下的权利和义务未经对方允许，不得转让给第三方。
+
+ 
+22. 本合同一式二份，买卖双方各执一份为证。
+This contract is made out in two original copies, each set of copies to be held by each party in witness thereof.
+ 
+卖方确认并同意：本合同包括其附件构成双方之间就本合同所涉事项的全部完整协议，取代双方或其代理人或代表之前就合同事项达成的所有口头和书面的声明、陈述、谅解和通讯。对本合同的任何条款的修改或补充，必须经双方合法授权代表以书面方式签署并盖章方为有效。尤其是，未经合法授权的买方联络人员、经办人员、相关部门和单位主管所签署或加盖部门章和业务章的协议和文件，均不能视为买方行为，该等文件对买方不具有任何约束力。涉及合同变更或补充事宜的文件必须由买方法定代表人或授权代表签署并加盖公司公章或合同专用章方为有效。被授权签署文件的人士必须有法定代表人签署的相应授权委托书，或在签署文件后10天内得到法定代表人的书面追认。
+The seller confirms and agrees that: this Contract and the Exhibits hereto constitute the entire agreement between seller and buyer relating to the subject matter hereof and supersede all oral or written statements, representations, understandings and correspondences, which have been made by either party or their agents or representatives prior to the execution of this Contract. No modification or supplement of this Contract shall be binding upon either party unless made in writing and be executed and affixed with the company seal on behalf of that the Sellery its duly authorized representative. In particular, the agreements or documents signed and sealed (with department or business seal) by the buyer’s liaison officers, managers, heads of relevant departments and units, without buyer’s duly authorization, shall not be deemed as the acts of the buyer, which have no legal effect upon the buyer.  For any documents concerning the alteration or supplement of the Contract to be valid, they must be signed by the legal representative or duly authorized representative of the buyer and be affixed with the company seal or contract seal.  The authorized person entrusted to sign the document must hold a corresponding power of attorney signed by the legal representative of the buyer, or subsequently being recognized by the legal representative with a written confirmation within 10 days of signing such document.
+ 
+23. 本合同用中英文书写，二者如有抵触则以中文为准.
+This Contract is written in English and Chinese. If there is any discrepancy between English and Chinese, all the meanings of the clause shall be based on Chinese version.
+ 
+【审查要素】
+
+国际贸易合同中，站在国内企业的立场，则尽量争取以中文版合同内容为准；退而求其次，约定中英文版具有同等法律效力；再次，约定以英文版合同内容为准。
+ 
+
+24. 备注（REMARKS）：
+
+(1)装运货物之集装箱有14天免费使用期，确保集装箱到达目的港后是清洁无任何破损的。
+The demurrage free time of container is14 days, and the Seller guarantee the container arrived in the destination port are clean and without any damages.
+
+(2)凡从美国、日本和欧州出口的货物，卖方须提供非木质包装的证明文件，如包装物为木质，则卖方需提供出口国检疫证书。如果卖方不能提供正确的文件，由此产生的一切后果将由卖方承担。
+For cargoes exported from USA, Japan and Europe, the Seller shall provide document declaring that packing is made by non-wood, or the Seller shall provide government’s plant quarantine certificate if the packing is made by wood. If the seller could not provide the right documents, all the risks and charges arising thereof shall be borne by the Seller.
+
+(3)卖方需定期向买方提供与买方相关的往来帐目以便核对。
+The Seller should offer periodically the Buyer an account which contains the purchase records for verification.
+ 
+
+25. 利益冲突（CONFLICT OF INTEREST）
+(1)如果卖方及或卖方代表（包括但不限于卖方代理或卖方相关的其他任何组织），被证实或表明向买方的员工或其家庭成员提供或接受相关利益，买方保留执行以下措施的权利：
+If the seller and/or its representative (including but not limited to the Seller’s agents or any other organization related to the Seller), are proven or shown to have provided or received such benefits to the Buyer's employee(s) or members of their family, the Buyer reserves the right to execute the followings actions :
+ 
+(1.1)买方自行决定终止与卖方的全部合同及或任何订单。
+The Buyer may at its own discretion terminate all contracts and/or any PO(s) placed to the Seller.
+ 
+(1.2)卖方将向买方返还与有问题的交易或项目有关的全部买方所付款项并按12%年利率计息。
+The Seller shall return all payment(s), related to the transaction/project in questions, received previously from the Buyer plus 12% (twelve percent) annual interest to the Buyer.
+
+(1.3)卖方将向买方支付其向买方及或其员工家庭所提供任何服务或利益的双倍作为赔偿。
+The Seller shall pay a penalty of two (2) times the value of any service(s) / benefit(s) given to the employee(s) of the Buyer and/or their family.
+   
+(1.4) 卖方将在收到买方通知后的一星期内，向买方支付上述款项及赔偿款。
+The Seller shall submit the above payment(s) and penalties to the Buyer within one (1) week since the receipt of notice from the Buyer.
+  
+(2)双方本着实事求是的原则，如实申报或举报，并承诺对举报人的权益予以保护和保密。
+Both parties should blow the whistle in the principle of facts, both parties guarantee that the whistle-blowers in good faith will be protected, the information of whistle-blowers will not be disclosed.
+ 
+举报邮箱：
+Alert Email:
+ 
+ 
+26. 合同有效期 为自20  年  月  日起至20  年  月  日止。
+Period of Validity: From                   to            .
+ 
+27. 合同附件。
+      Attachment
+□验收标准
+   The Standard for Checking and Acceptance
+□关联方列表
+   Related party list
+□其他
+   Others
+
+ 
+买方：                       卖方：                                 
+The Buyer:                The Seller:              
+
+
+
+说明：
+1、本合同模板为法律出版社出版，上海市律师协会特邀委主编，徐新林执行主编，公司法务联盟全力支持和推荐的《公司法务实务操作指引》附件之一，本书将于近期出版，敬请期待。
+2、近期公司法务联盟将持续推出《购销合同模板及审查要点》、《股权转让协议模板及审查要点》、《房屋租赁合同模板及审核要点 》、《涉外贸易合同模板及审核要点》和《劳动合同模板及审查要点》，欢迎关注了解。
+
+END
+
+关于公司法务联盟
+
+优秀法务官采访
+杨钦 携程副总裁兼法总 |  李园 汽车之家总法 | 西小虹颂虹控股董事长 | 王兆华米其林SVP | EMI Wang 家乐福副总裁 | 俞敏 H&M大中华区总法律顾问 | 邓扬 斗鱼法务副总裁 |  曾雯雯 游族影业法务总监 | Sherry Lv前法总 | Elisa Bei Crocs法总 | 潘维力 富世华集团亚太法总 | 赵震宇 史密斯集团亚太法总  | 陆宇平 TOTO法总 | 徐新林 APP集团总法  | 托马斯·王刚 法盟组织者
+
+
+联系我们
+投稿请将资料发送至：tougao@fapeiedu.com
+
+
+前往“发现”-“看一看”浏览“朋友在看”
+
+
+
+
+已发送
+发送中
+微信扫一扫关注该公众号
