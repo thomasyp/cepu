@@ -9,7 +9,7 @@ def getContentsInTag(tag, soup):
     contents = []
     
     for content in soup.find_all(tag):
-        contents.append(content.get_text())
+        contents.append(content.get_text(strip=True))
     return contents
 
 def getTitel(soup):
@@ -61,10 +61,11 @@ if __name__ == '__main__':
     #            'https://mp.weixin.qq.com/s?__biz=MzA3Mjc5NzUxOQ==&mid=2653210757&idx=2&sn=1543338dea64fed2749a9893450934e2&chksm=84c8b4a5b3bf3db32cd8889a515c0c0543d51609064469b498091c6ae5eec84fc2ebd01f61a8&mpshare=1&scene=1&srcid=&sharer_sharetime=1572895540909&sharer_shareid=ed58f180990676c5aadaf17d030f87c0&key=6f374bbe4cd766cf8a305b7944482dc12fd30a7e6448482b0c4e746454cafbeb23d28f41edc1a37389eb13bef033e8809b95e0913a5718f352e7ecdae00850e6ef9053d9e2f4415fb7f02eb3c8d625d5&ascene=1&uin=MjIwNzY2NTU4Mg%3D%3D&devicetype=Windows+10&version=62070158&lang=zh_CN&pass_ticket=mIQADLBHUyaZotZpvykQDA%2FPr%2BN9OSs85wrYdc1zESVtiL5XCxVduXQ9Vt7dUV%2BV',
     #            'https://mp.weixin.qq.com/s?__biz=MzA3OTEzMjMwNg==&mid=2651910851&idx=1&sn=3bab6172deb60c7caebf4a1abccf0538&chksm=845c713eb32bf8282e4a9c971198d398f06ea940bcf9cd78eb98537ffeb97cf8d8e91221a728&mpshare=1&scene=1&srcid=&sharer_sharetime=1572791743208&sharer_shareid=ed58f180990676c5aadaf17d030f87c0&key=e737c3fbf5b54274138c4e78994e2942e4f836aa2ab2086a64837c7dac342b3c3f11fe89f8d46a616c3e8298def578a060d159bcc3a32f476cb231a91170f38aad0abe7b883a9bb52da4470d7594519e&ascene=1&uin=MjIwNzY2NTU4Mg%3D%3D&devicetype=Windows+10&version=62070158&lang=zh_CN&pass_ticket=mIQADLBHUyaZotZpvykQDA%2FPr%2BN9OSs85wrYdc1zESVtiL5XCxVduXQ9Vt7dUV%2BV'
     #            ]
-    url = 'https://mp.weixin.qq.com/s/LOiwF3pyfEiK-ZvZXWOtRg'
-    html = download(url)
+    # url = 'https://mp.weixin.qq.com/s/LOiwF3pyfEiK-ZvZXWOtRg'
+    # html = download(url)
 
-    urllist = re.findall("url: '(.*?),", html)
+    # urllist = re.findall("url: '(.*?),", html)
+    urllist = ['https://mp.weixin.qq.com/s/HrcJS7uHCN14vM4_y51y1w']
     for url in urllist:
         print("Carwler...\n")
         html = download(url)
